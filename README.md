@@ -1,0 +1,1 @@
+I Developed an end-to-end E-Commerce Data Analytics project combining Python and SQL to transform raw sales data into actionable insights for business growth. Analyzed product performance, revenue trends, and inventory optimization using SQL for data extraction and Python (Pandas, Matplotlib/Seaborn) for advanced processing and visualization.
